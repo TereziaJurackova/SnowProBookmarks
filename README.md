@@ -11,3 +11,4 @@ Use the csv file to upload bookmarks into your Raindrop account. Once uploaded w
 
 See https://help.raindrop.io/import for help to import bookmarks into your account.
 
+<iframe style="border: 0; width: 100%; height: 450px;" allowfullscreen frameborder="0" src="https://raindrop.io/terezia-jurackova/snow-pro-core-bookmarks-49080394/embed"></iframe>
